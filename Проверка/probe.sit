@@ -1,0 +1,4 @@
+f=createfile("C:/Users/User/Documents/Индивидуальное задание/Рабочие файлы/Проверка/state.txt",-1);
+writeln(f,"error=",project_error_flag," init=",prjinited," time=",time);
+freeobject(f);
+savescreenshot("C:/Users/User/Documents/Индивидуальное задание/Рабочие файлы/Проверка/schema.png",2);
